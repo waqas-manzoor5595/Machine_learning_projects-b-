@@ -3,12 +3,14 @@ Welcome to my Machine Learning repository! Here, I post my code and projects rel
 
 Current Projects
 1. Logistic Regression
+2. 
 Description: This project demonstrates the implementation of Logistic Regression for binary classification problems. It covers data preprocessing, feature scaling, model training, and performance evaluation using metrics like accuracy, precision, recall, and the confusion matrix.
 
-2. Descision Trees
+3. Descision Trees:
+   
    This project demonstrates the implementation of "Decision+Trees_on_creditScore.ipynb"
 
-3. 
+5. 
 
 Files:
 
