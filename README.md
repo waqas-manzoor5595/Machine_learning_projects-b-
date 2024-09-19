@@ -22,10 +22,10 @@ This project demonstrates usage of K Nearest Neighbours for classification and p
 
 ***Files:***
 
-log_reg_MYCREDIT.ipynb:   Contains the complete implementation of the logistic regression model.
+*log_reg_MYCREDIT.ipynb*:   Contains the complete implementation of the logistic regression model.
 
-Decision+Trees_on_creditScore.ipynb:   Contains the complete implementation of the Descision Trees model.
+*Decision+Trees_on_creditScore.ipynb*:   Contains the complete implementation of the Descision Trees model.
 
-KNN .ipynb:   Contains the implementation of KNN
+*KNN .ipynb*:   Contains the implementation of KNN
 
-Linear+Regression.ipynb:   Contains the implementation of Linear regression.
+*Linear+Regression.ipynb*:   Contains the implementation of Linear regression.
