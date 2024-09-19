@@ -20,7 +20,7 @@ This project demonstrates the usage of Linear Regression to predict
 This project demonstrates usage of K Nearest Neighbours for classification and prediction
 
 
-Files:
+***Files:***
 
 log_reg_MYCREDIT.ipynb:   Contains the complete implementation of the logistic regression model.
 
